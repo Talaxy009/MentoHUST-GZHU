@@ -23,4 +23,4 @@ udhcpc -i(你的网卡，这里conf的为eth0.2)
 ```cmd
 mentohust -w -u 用户名 -p 密码
 ```
-即可把mentohust加入自动项
+即可把mentohust加入启动项
