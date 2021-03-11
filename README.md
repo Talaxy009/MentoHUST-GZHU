@@ -1,7 +1,7 @@
 # mentohust
 
 ## 注意:
-建议使用更为先进的 [MiniEAP](https://github.com/ysc3839/openwrt-minieap/tree/gzhu)，使用方式可看本人的 [这篇文章](https://github.com/Talaxy009/MentoHUST-GZHU/edit/master/README.md)
+建议使用更为先进的 [MiniEAP](https://github.com/ysc3839/openwrt-minieap/tree/gzhu)，使用方式可看本人的 [这篇文章](https://www.snow-mountain.life/mentohust-minieap)
 
 ## 使用方法：
 1、将[mentohust](bin/mentohust)上载到\bin\中
